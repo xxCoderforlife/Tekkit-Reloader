@@ -1,0 +1,8 @@
+﻿name: Tekkit ToolKit
+main: me.Coderforlife.Tekkit.Reloader
+version: 2.4
+authors: [xxCoderforlife]
+website: http://dev.bukkit.org/server-mods/tekkit-reloader/
+load: STARTUP
+loadbefore: [Essentials, Worldedit]
+    
